@@ -1,3 +1,5 @@
+package edu.jansey.anatomia;
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
         double n1 = 7, n2 = 5, n3 = 10;

@@ -1,3 +1,5 @@
+package edu.jansey.anatomia;
+
 public class MinhaClasse {
 
     public static void main(String [] args){
